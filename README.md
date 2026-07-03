@@ -75,7 +75,7 @@ Four PivotCharts turn raw registrations into business intelligence:
 | `billswift-webinar-registration.html` | The registration webpage (frontend) |
 | `billswift_registration_server.ipynb` | Flask backend: cleaning, scoring, ML, Excel, HubSpot |
 | `billswift_flowchart.png` | Pipeline architecture diagram |
-| `BillSwift_Project_Portfolio.pdf` | Full visual walkthrough with screenshots |
+| `Portfolio Project .pdf` | Full visual walkthrough with screenshots |
 
 ---
 
