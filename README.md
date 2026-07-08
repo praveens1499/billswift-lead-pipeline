@@ -80,7 +80,7 @@ Four PivotCharts turn raw registrations into business intelligence:
 | `billswift-webinar-registration.html` | The registration webpage (frontend) |
 | `billswift_registration_server.ipynb` | Flask backend: cleaning, scoring, ML, Excel, HubSpot, Zapier alert |
 | `billswift_flowchart.png` | Pipeline architecture diagram (including Priority Lead branch) |
-| `Portfolio Project .pdf` | Full visual walkthrough with screenshots |
+| `Portfolio Project pdf.pdf` | Full visual walkthrough with screenshots |
 | `billswift_priority_leads.xlsx` | Auto-generated log of leads that crossed the priority threshold (created on first Priority Lead) |
 
 ---
