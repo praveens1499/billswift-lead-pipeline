@@ -62,7 +62,7 @@ Leads crossing the same priority threshold as HubSpot's Hot tier trigger a dedic
 
 ---
 
-## CFO-Ready Analytics
+## Analytics
 
 Four PivotCharts turn raw registrations into business intelligence:
 
