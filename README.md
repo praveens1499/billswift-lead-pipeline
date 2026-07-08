@@ -36,7 +36,7 @@ A prospect fills out a webinar registration form. From that single action, the s
 
 ## Pipeline Overview
 
-![Project Pipeline](project_flowchart.png)
+![Project Pipeline](Project_flowchart.png)
 
 ---
 
